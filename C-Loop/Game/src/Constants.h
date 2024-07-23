@@ -1,0 +1,8 @@
+#define FALSE 0
+#define TRUE 1
+
+#define  WINDOW_WIDTH 800
+#define  WINDOW_HEIGHT 600
+
+#define TARGET_FPS 60
+#define TARGET_FRAME_MS (1000 / TARGET_FPS)

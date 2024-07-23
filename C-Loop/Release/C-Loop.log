@@ -1,0 +1,7 @@
+﻿  Main.c
+D:\Dev\C\C-Loop\C-Loop\C-Loop\Game\src\Main.c(5,1): warning C4026: function declared with formal parameter list
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  C-Loop.vcxproj -> D:\Dev\C\C-Loop\C-Loop\Release\C-Loop.exe

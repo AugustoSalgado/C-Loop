@@ -1,0 +1,11 @@
+﻿  Constants.h
+  Main.c
+D:\Dev\C\C-Loop\C-Loop\C-Loop\Game\src\Main.c(85,14): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\Dev\C\C-Loop\C-Loop\C-Loop\Game\src\Main.c(88,14): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\Dev\C\C-Loop\C-Loop\C-Loop\Game\src\Main.c(113,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dev\C\C-Loop\C-Loop\C-Loop\Game\src\Main.c(113,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dev\C\C-Loop\C-Loop\C-Loop\Game\src\Main.c(113,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dev\C\C-Loop\C-Loop\C-Loop\Game\src\Main.c(113,53): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Dev\C\C-Loop\C-Loop\C-Loop\Game\src\Main.c(125,1): warning C4026: function declared with formal parameter list
+D:\Dev\C\C-Loop\C-Loop\C-Loop\Game\src\Main.c(132,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  C-Loop.vcxproj -> D:\Dev\C\C-Loop\C-Loop\Debug\C-Loop.exe
